@@ -2,6 +2,8 @@
 
 This project uses a deep learning model to classify brain tumors from MRI images. The model is a ResNet-18 convolutional neural network that has been pre-trained on the ImageNet dataset and fine-tuned for this specific task. The goal is to accurately classify MRI images into four categories: glioma, meningioma, pituitary, and no tumor.
 
+Kaggle Dataset: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
+
 ## Key Features
 
 - **Transfer Learning**: Utilizes a pre-trained ResNet-18 model to leverage learned features from a large dataset, improving performance and reducing training time.
